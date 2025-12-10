@@ -1,9 +1,0 @@
-build:
-  command: "npm run build"
-analyze:
-  location: local
-  all: true
-commit:
-  connect:
-    stream: juice shop
-    url: https://isvp.prosoft.loc:8443
